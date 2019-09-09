@@ -1,17 +1,17 @@
 [
   {
     "rezept_id": 1,
-    "rezept_image_url": "",
+    "rezept_image_url": "https://github.com/appgoodfood/goodfood/blob/master/rezepte_bilder/rezept_1_image.jpeg",
     "rezept_type": "breakfast"
   },
   {
     "rezept_id": 2,
-    "rezept_image_url": "",
+    "rezept_image_url": "https://github.com/appgoodfood/goodfood/blob/master/rezepte_bilder/rezept_1_image.jpeg",
     "rezept_type": "breakfast"
   },
   {
     "rezept_id": 3,
-    "rezept_image_url": "",
+    "rezept_image_url": "https://github.com/appgoodfood/goodfood/blob/master/rezepte_bilder/rezept_1_image.jpeg",
     "rezept_type": "sweets"
   }
 ]
