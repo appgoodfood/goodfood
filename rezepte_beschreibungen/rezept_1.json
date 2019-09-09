@@ -1,0 +1,17 @@
+[
+  {
+    "rezept_lang": "en",
+    "rezept_title": "Flafel",
+    "rezept_description": "Falafel description"
+  },
+  {
+    "rezept_lang": "de",
+    "rezept_title": "Flafel",
+    "rezept_description": "Falafel Beschreibung"
+  },
+  {
+    "rezept_lang": "ar",
+    "rezept_title": "الفلافل",
+    "rezept_description": "طريقة عمل الفلافل السورية"
+  }
+]
