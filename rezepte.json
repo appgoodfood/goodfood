@@ -8,5 +8,10 @@
     "rezept_id": 2,
     "rezept_image_url": "",
     "rezept_type": "breakfast"
+  },
+  {
+    "rezept_id": 3,
+    "rezept_image_url": "",
+    "rezept_type": "sweets"
   }
 ]
